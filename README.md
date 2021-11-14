@@ -2,7 +2,7 @@
 
 ## Push to Heroku
 
-[football-odds Heroku app](https://football-odds.herokuapp.com/)
+[football-odds-full Heroku app](https://football-odds-full.herokuapp.com/)
 
 ```bash
 git push heroku master
